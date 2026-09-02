@@ -1,0 +1,8 @@
+movimentacoes.txt
+output/
+*.exe
+*.o
+*.obj
+.vscode/
+.idea/
+
